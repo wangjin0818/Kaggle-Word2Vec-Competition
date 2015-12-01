@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"post",
+				"post_id	statement"
+			],
+			[
+				"file",
+				"file_name	forstmt"
+			],
+			[
+				"is_",
+				"is_reply	statement"
+			],
+			[
+				"dir",
+				"dir_name	statement"
+			],
+			[
+				"list",
+				"list_1	param"
+			],
+			[
+				"graph",
+				"graph_expand"
+			],
+			[
+				"MA",
+				"MAE_list	statement"
+			],
+			[
+				"best",
+				"best_i	statement"
+			],
+			[
+				"best_",
+				"best_mae	statement"
+			],
+			[
+				"i",
+				"i_vector	statement"
+			],
+			[
+				"arousal",
+				"arousal_index	statement"
+			],
+			[
+				"arou",
+				"arousal_index	statement"
+			],
+			[
+				"valence",
+				"valence_community	statement"
+			],
+			[
+				"vlan",
+				"valence_offset	statement"
+			],
+			[
+				"community",
+				"community_file"
+			],
+			[
+				"commu",
+				"community_list	param"
+			],
+			[
+				"comm",
+				"community_list	param"
+			],
+			[
+				"init",
+				"init_community	function"
+			],
+			[
+				"max",
+				"max_value	statement"
+			],
+			[
+				"gain",
+				"gain_list	statement"
+			],
+			[
+				"com",
+				"community_list	statement"
+			],
+			[
+				"sigma",
+				"sigma_in"
+			],
+			[
+				"modul",
+				"modul_sum	statement"
+			],
+			[
+				"sig",
+				"sigma_tot	statement"
+			],
+			[
+				"grap",
+				"graph_matrix"
+			],
+			[
+				"modu",
+				"modul_sum	statement"
+			],
+			[
+				"k",
+				"k_i	statement"
+			],
+			[
+				"gra",
+				"grpah_matrix	statement"
+			],
+			[
+				"py",
+				"pyplot	module"
+			],
+			[
+				"num",
+				"num_word"
+			],
+			[
+				"load",
+				"load_data"
+			],
+			[
+				"sim",
+				"similarity	statement"
+			],
+			[
+				"get",
+				"get_value	function"
+			],
+			[
+				"sort",
+				"sort_index	statement"
+			],
+			[
+				"s",
+				"same_list	statement"
+			],
+			[
+				"is",
+				"is_positive	statement"
+			],
+			[
+				"opp",
+				"oppo_list	statement"
+			],
+			[
+				"word",
+				"word_count	statement"
+			],
+			[
+				"op",
+				"oppo_list	statement"
+			],
+			[
+				"same",
+				"same_list	statement"
+			],
+			[
+				"positive",
+				"positive_count"
+			],
+			[
+				"model",
+				"model_file	statement"
+			],
+			[
+				"min",
+				"min_count	5"
+			],
+			[
+				"out",
+				"output	statement"
+			],
+			[
+				"in",
+				"input_file	forstmt"
+			],
+			[
+				"input",
+				"input_file_set	statement"
+			],
+			[
+				"wi",
+				"WikiCorpus	class"
+			],
+			[
+				"sum",
+				"summarization	module"
+			],
+			[
+				"dict",
+				"dictionary	statement"
+			],
+			[
+				"lexi",
+				"lexicon_name	statement"
+			],
+			[
+				"Tf",
+				"TfidfVectorizer	class"
+			],
+			[
+				"lexicon",
+				"lexicon_name"
+			],
+			[
+				"ma",
+				"mean_absolute_error	function"
+			],
+			[
+				"mean",
+				"mean_squared_error	function"
+			],
+			[
+				"mark",
+				"mark_name	statement"
+			],
+			[
+				"load_",
+				"load_lexicon	function"
+			],
+			[
+				"reald",
+				"readlines	function"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"test",
+				"test_centroids"
+			],
+			[
+				"wor",
+				"word_centroid_map	param"
+			],
+			[
+				"review",
+				"review_to_wordlist	function"
+			],
+			[
+				"testData",
+				"testDataVecs"
+			],
+			[
+				"revi",
+				"reviewFeatureVecs	statement"
+			],
+			[
+				"word2vec",
+				"word2vec	module"
+			],
+			[
+				"re",
+				"review	param"
+			],
+			[
+				"raw",
+				"raw_sentences	forflow"
+			],
+			[
+				"clas",
+				"classifier	forest"
+			],
+			[
+				"create",
+				"create_submit"
+			],
+			[
+				"to_c",
+				"to_csv	function"
+			],
+			[
+				"clean",
+				"clean_test_reviews	statement"
+			],
+			[
+				"cle",
+				"clean_test_reviews	statement"
+			],
+			[
+				"del",
+				"delimiter	None"
+			],
+			[
+				"read",
+				"read_csv	function"
+			],
+			[
+				"train",
+				"train_data_features	statement"
+			],
+			[
+				"fit",
+				"fit_transform	function"
+			],
+			[
+				"max_",
+				"max_features	None"
+			],
+			[
+				"stop",
+				"stop_words	None"
+			],
+			[
+				"f",
+				"feature_extraction	module"
+			],
+			[
+				"lo",
+				"lower_case	statement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Workspaces/eclipse-py/LexiconBuilder/graph/community_propagation.py",
+			"settings":
+			{
+				"buffer_size": 10924,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Workspaces/eclipse-py/LexiconBuilder",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/community_list",
+		"/E/Workspaces/python/stanford python tutorial",
+		"/E/Workspaces/python/stanford python tutorial/txt2csv",
+		"/E/Workspaces/python/stanford python tutorial/txt2csv/result"
+	],
+	"file_history":
+	[
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/graph.py",
+		"/E/Workspaces/python/stanford python tutorial/txt2csv/data",
+		"/E/Workspaces/python/stanford python tutorial/txt2csv/txt2csv.py",
+		"/E/Workspaces/python/stanford python tutorial/txt2csv/data/20140501_873936.A.E.txt",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/plot_mae.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/plot_pearsonr.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/plot_rmse.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/graph_pagerank_rmse.svg",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/graph_acl.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/pagerank/pagerank.py",
+		"/E/dataset/affect_corpus/lexicon/lexicon(正規格式).csv",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/community_propagation.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/community_detection.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/insideTest.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/community_tmp.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/graph_old.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/plt_example.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/embedding/embedding.py",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/community_combine.py",
+		"/E/dataset/Springleaf Marketing Response/train.csv",
+		"/C/Users/wangjin/Desktop/word2vec訓練/train_word2vec_model.py",
+		"/C/Users/wangjin/Desktop/word2vec訓練/process_wiki.py",
+		"/C/Users/wangjin/Desktop/word2vec訓練/wiki.zh.seg.tw",
+		"/E/Workspaces/eclipse-py/word2vec/train_word2vec_model.py",
+		"/E/Workspaces/eclipse-py/word2vec/process_wiki.py",
+		"/C/Users/wangjin/Desktop/word2vec訓練/cosine_similarity.py",
+		"/E/Workspaces/eclipse-py/word2vec/data/wiki.zh.seg.fan",
+		"/E/Workspaces/eclipse-py/word2vec/data/wiki.zh.text.fan",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/main_community.cpp",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/community.cpp",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/community.h",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/graph_binary.h",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/graph.h",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/graph.cpp",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/graph_binary.cpp",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/main_hierarchy.cpp",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/main_convert.cpp",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/Community_latest/main_random.cpp",
+		"/C/Users/wangjin/Desktop/fast unfolding C++/community/community/community.dsp",
+		"/E/Workspaces/python/valence_arousal_analysis/pretrained_prediction.py",
+		"/C/Users/wangjin/Desktop/emnlp2015.tex",
+		"/E/Workspaces/eclipse-py/LexiconBuilder/graph/error_statistic.py",
+		"/E/Workspaces/python/stanford python tutorial/c_language/callTest.py",
+		"/F/迅雷下载/ext-6.0.0.227/ext-6.0.0/build/examples/index.html",
+		"/E/Workspaces/eclipse-py/vaTrans/vaTrans.py",
+		"/E/Workspaces/python/stanford python tutorial/c_language/callTest1.cpp",
+		"/E/Workspaces/python/valence_arousal_analysis/evaluate_geo.py",
+		"/E/Workspaces/python/valence_arousal_analysis/evaluate_mean.py",
+		"/E/Workspaces/python/valence_arousal_analysis/evaluate_tf_mean.py",
+		"/E/Workspaces/python/valence_arousal_analysis/evaluate_tf_geo.py",
+		"/E/Workspaces/eclipse-py/word2vec/process_dewiki.py",
+		"/E/Workspaces/eclipse-py/word2vec/train_word2vec_dewiki.py",
+		"/E/Workspaces/eclipse-py/word2vec/train_doc2vec_model.py",
+		"/C/Users/wangjin/Desktop/result.csv",
+		"/E/Workspaces/python/word2vec competition/gensim/textrank.py",
+		"/E/Workspaces/python/valence_arousal_analysis/cmd.py",
+		"/F/迅雷下载/lj-moods-uva.xml/lj-amsterdam-moods.xml",
+		"/E/Workspaces/python/valence_arousal_analysis/util.py",
+		"/E/Workspaces/python/valence_arousal_analysis/evaluate_tf.py",
+		"/E/pdf/Python/Building Machine Learning Systems with Python/1400OS_Code/1400OS_03_Codes/code/rel_post_01.py",
+		"/E/pdf/Python/Building Machine Learning Systems with Python/1400OS_Code/1400OS_03_Codes/code/plot_kmeans_example.py",
+		"/E/pdf/Python/Building Machine Learning Systems with Python/1400OS_Code/1400OS_03_Codes/code/tfidf.py",
+		"/F/迅雷下载/ext-6.0.0.227/ext-6.0.0/build/examples/kitchensink/blackberry-en/app.js",
+		"/E/Workspaces/python/valence_arousal_analysis/corpus/corpus_raw/1.txt",
+		"/E/Workspaces/python/valence_arousal_analysis/corpus/mark.csv",
+		"/E/Workspaces/python/valence_arousal_analysis/save_corpus_into_file.py",
+		"/E/Workspaces/python/mnist competition/convolutional_nn.py",
+		"/C/Users/wangjin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/Workspaces/python/valence_arousal_analysis/lexicon/lexicon(正規格式).csv",
+		"/E/Workspaces/python/word2vec competition/ngram.py",
+		"/E/Workspaces/python/word2vec competition/word2vec.sublime-project",
+		"/E/Workspaces/python/word2vec competition/vector_averaging.py",
+		"/E/Workspaces/python/word2vec competition/clustering.py",
+		"/E/Workspaces/python/word2vec competition/preview.py",
+		"/E/Workspaces/python/word2vec competition/train_model.py",
+		"/E/Workspaces/python/word2vec competition/cmd.py",
+		"/E/Workspaces/eclipse-py/word2vec/cosine_similarity.py",
+		"/E/Workspaces/python/word2vec competition/sentiment_analysis.py",
+		"/E/Workspaces/python/word2vec competition/submission.py",
+		"/E/Workspaces/python/word2vec competition/data/labeledTrainData.tsv"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pearson",
+			"option",
+			"pagerank",
+			"weighted_degree",
+			"degree",
+			"in",
+			"amused",
+			"clean_test_reviews",
+			"value",
+			"review",
+			"trin",
+			"np"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Workspaces/eclipse-py/LexiconBuilder/graph/community_propagation.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10923,
+								10923
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 5914.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "word2vec.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Workspaces\\python\\word2vec competition\\word2vec.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
